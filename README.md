@@ -55,7 +55,8 @@ Highest number of customers (69)
 Low average rent per customer (156)
 Strong average sales per customer (~11.6k)
 
-🔗
+Project LInk
+https://github.com/nisha2021-vaanya/Sql_coffee_sales🔗
 
 
 ## Technologies Used
